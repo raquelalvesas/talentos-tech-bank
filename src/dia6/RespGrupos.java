@@ -68,3 +68,6 @@ public class RespGrupos {
     sortGrupo2();
     }
 }
+
+// A resposta da questão 4 está em outra na aba de exercícios,
+// pois a mesma foi questão para o meu grupo resolver.
